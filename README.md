@@ -8,7 +8,10 @@ More information: Info: https://learn.hashicorp.com/vault/developer/plugin-backe
 2. CRUD on ArangoDB user and database.
 
 # Installation and Compilation
-follow this link to compile and install plugin:https://www.vaultproject.io/guides/operations/plugin-backends/
+```
+make clean && make
+```
+follow this link for details to compile and install plugin:https://www.vaultproject.io/guides/operations/plugin-backends/
 
 
 # Enable Arango Plugin
